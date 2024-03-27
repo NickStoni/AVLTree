@@ -1,5 +1,5 @@
 # Python implementation and interface of AVL Tree
-
+<img src="./tree.png" alt="tree" width="200"/>
 ### Python efficient look-up data structure
 
 AVL tree data structure that has worst case look-up time complexity $O(log(n))$ and supports the following operations: 
